@@ -4,7 +4,7 @@
 This project predicts the likelihood of **liver disease** in patients using **machine learning techniques**.  
 By analyzing healthcare data and identifying key risk factors, the model helps doctors and researchers make early, data-driven interventions for better patient outcomes.  
 
-The project compares two algorithms — **Logistic Regression** and **Random Forest** — to identify which performs best in classifying liver patients based on their medical attributes.  
+The project compares two algorithms  **Logistic Regression** and **Random Forest**  to identify which performs best in classifying liver patients based on their medical attributes.  
 
 ---
 
